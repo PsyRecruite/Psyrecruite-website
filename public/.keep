@@ -1,1 +1,12 @@
-(dit bestand houdt de map in leven)
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PsyRecruite Public</title>
+</head>
+<body>
+  <h1>Public directory van PsyRecruite</h1>
+  <p>Deze pagina staat in de <code>/public</code> map en kan gebruikt worden voor statische bestanden zoals images, favicon, robots.txt, etc.</p>
+</body>
+</html>
